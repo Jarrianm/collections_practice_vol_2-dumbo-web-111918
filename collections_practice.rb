@@ -16,12 +16,11 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
+
 end
 
 def merge_data(key,info)
-  key.each{|name|}
-  info.each{|hash|}
-  name.merge!(hash[name[:first_name]])
+
 
 end
 
